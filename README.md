@@ -1,4 +1,4 @@
-# Data Project Portfolio :bar_chart:
+# Data Analyst Portfolio :bar_chart:
 
 I am sharing a summary of my 5-month self-taught journey to enter the Data market as a Data Analyst.
 
@@ -23,7 +23,7 @@ My job can assist business in Making Data-Driven Decision, Optimizing Operations
 - Python Libraries : Pandas <img src="https://user-images.githubusercontent.com/104643138/225993416-31cf4034-962c-4842-8821-5a5ccfc8e729.png" width="24" height="24"/> | NumPy <img src="https://user-images.githubusercontent.com/104643138/225993758-e1b3af8b-47a0-405d-90ff-b2edeeac3d37.png" width="24" height="24"/> | Matplotlib <img src="https://user-images.githubusercontent.com/104643138/225994026-078da32e-a169-4f83-9fa4-fc0d00c911c1.png" width="24" height="24"/>
 | Seaborn <img src="https://user-images.githubusercontent.com/104643138/225994199-d9f150a0-27b6-44bc-a581-2e21d7d0e9af.svg" width="24" height="24"/>
 
-- Statistics :chart_with_upwards_trend:
+- Statistics :chart_with_upwards_trend: Still Loading ... ![loading-bar](https://user-images.githubusercontent.com/104643138/226080564-65789564-b2f3-42bf-ab76-b442bce577e3.png)
 
 ## My Certifications :mortar_board::books:
 
