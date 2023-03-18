@@ -1,4 +1,4 @@
-# Data Analyst Portfolio :bar_chart:
+# <h1 align="center">:bar_chart: Data Analyst Portfolio :bar_chart:</h1>
 
 I am sharing a summary of my 5-month self-taught journey to enter the Data market as a Data Analyst.
 
@@ -39,3 +39,5 @@ My job can assist business in Making Data-Driven Decision, Optimizing Operations
 - [Data Visualization with Advanced Excel - by PwC](https://coursera.org/share/40cb5b13e6521f14746db52efbf82302)
 
 ## My Project :triangular_flag_on_post::rocket:
+
+- [Used Device Price Analysis using Python](https://github.com/phucthichlai/Used-Device-Price-Analysis-Project-COMPLETED-) 
