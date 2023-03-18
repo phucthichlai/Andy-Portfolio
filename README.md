@@ -18,6 +18,8 @@ My job can assist business in Making Data-Driven Decision, Optimizing Operations
 
 - [IBM Cloud](https://cloud.ibm.com/login) <img src="https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png" width="24" height="24"/>
 
+- [Cognos](https://www.ibm.com/products/cognos-analytics)<img src="https://user-images.githubusercontent.com/104643138/226100535-a1276fa9-f2ae-4995-b153-a8fd0a231032.png" width="24" height="24">
+
 - [Python](https://coursera.org/share/9633cd154ac74544f87f83434258a90b) <img src="https://user-images.githubusercontent.com/104643138/225982092-a7d3bbf1-35ba-4a2c-864e-3f4bf27902a3.png" width="24" height="24"/>
 
 - **Python Libraries** : [Pandas](https://pandas.pydata.org/) <img src="https://user-images.githubusercontent.com/104643138/225993416-31cf4034-962c-4842-8821-5a5ccfc8e729.png" width="24" height="24"/> | [NumPy](https://numpy.org/) <img src="https://user-images.githubusercontent.com/104643138/225993758-e1b3af8b-47a0-405d-90ff-b2edeeac3d37.png" width="24" height="24"/> | [Matplotlib](https://matplotlib.org/) <img src="https://user-images.githubusercontent.com/104643138/225994026-078da32e-a169-4f83-9fa4-fc0d00c911c1.png" width="24" height="24"/>
@@ -41,3 +43,4 @@ My job can assist business in Making Data-Driven Decision, Optimizing Operations
 ## My Project :triangular_flag_on_post::rocket:
 
 - [Used Device Price Analysis using Python](https://github.com/phucthichlai/Used-Device-Price-Analysis-Project-COMPLETED-) 
+- [Report of Technology Trends of Developer on Stack Overflow 2019](https://github.com/phucthichlai/Technology-Trends-of-Developer-community-on-Stack-Overflow-in-2019)
