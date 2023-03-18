@@ -44,3 +44,7 @@ My job can assist business in Making Data-Driven Decision, Optimizing Operations
 
 - [Used Device Price Analysis using Python](https://github.com/phucthichlai/Used-Device-Price-Analysis-Project-COMPLETED-) 
 - [Report of Technology Trends of Developer on Stack Overflow 2019](https://github.com/phucthichlai/Technology-Trends-of-Developer-community-on-Stack-Overflow-in-2019)
+
+## You can reach me at 👇
+[Facebook](https://www.facebook.com/dobaophuc98/)![facebook](https://user-images.githubusercontent.com/104643138/226102027-e19c496c-420c-457c-85a9-11a32e2d5471.png)
+[LinkedIn](https://www.linkedin.com/in/andy-virtual-assistant/)![linkedin](https://user-images.githubusercontent.com/104643138/226102043-8807a548-657d-4fbc-a8d3-daf0d473fb66.png)
