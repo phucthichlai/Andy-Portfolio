@@ -29,16 +29,16 @@ My job can assist business in Making Data-Driven Decision, Optimizing Operations
 
 ## My Certifications :mortar_board::books:
 
-- [IBM Data Analyst Professional Certificate](https://coursera.org/share/3d4974ef9593b8ac12d077d2914828db):
-1. [Introduction to Data Analytics - by IBM](https://coursera.org/share/c1913357195dda5b11f966418de8506a)
-2. [Data Analysis with Python - by IBM](https://coursera.org/share/9633cd154ac74544f87f83434258a90b)
-3. [Data Visualization with Python - by IBM](https://coursera.org/share/1b6d1e7fddbfaaa040ce7ed9d1f0da54)
+- [IBM Data Analyst Professional Certificate:](https://coursera.org/share/3d4974ef9593b8ac12d077d2914828db)<img height="32" width="32" src="https://user-images.githubusercontent.com/104643138/226147839-6695b5b9-2086-4b0b-a4ff-efe21756f2b9.png"/>
+1. [Introduction to Data Analytics](https://coursera.org/share/c1913357195dda5b11f966418de8506a)
+2. [Data Analysis with Python](https://coursera.org/share/9633cd154ac74544f87f83434258a90b)
+3. [Data Visualization with Python](https://coursera.org/share/1b6d1e7fddbfaaa040ce7ed9d1f0da54)
 4. [Python for Data Science, AI & Development](https://coursera.org/share/c0b2a4844cf98696fbe46257b0548e14)
 5. [Databases and SQL for Data Science with Python](https://coursera.org/share/b1478c9acc5b9a4f8bdf0af10ebffc60)
 6. [Data Visualization and Dashboards with Excel and Cognos](https://coursera.org/share/af66719b224a639ffac8bc5e613ca89e)
 7. [IBM Data Analyst Capstone Project](https://coursera.org/share/a1ef289a4268d617eb25d0a673fdfa03)
 
-- [Data Visualization with Advanced Excel - by PwC](https://coursera.org/share/40cb5b13e6521f14746db52efbf82302)
+- [Data Visualization with Advanced Excel - by PwC](https://coursera.org/share/40cb5b13e6521f14746db52efbf82302). <img height="32" width="32" src="https://user-images.githubusercontent.com/104643138/226147902-dc13f4b4-4c09-4eed-91ef-61619dcd8716.png"/>
 
 ## My Project :triangular_flag_on_post::rocket:
 
@@ -46,5 +46,7 @@ My job can assist business in Making Data-Driven Decision, Optimizing Operations
 - [Report of Technology Trends of Developer on Stack Overflow 2019](https://github.com/phucthichlai/Technology-Trends-of-Developer-community-on-Stack-Overflow-in-2019)
 
 ## You can reach me at 👇
-[Facebook](https://www.facebook.com/dobaophuc98/)![facebook](https://user-images.githubusercontent.com/104643138/226102027-e19c496c-420c-457c-85a9-11a32e2d5471.png)
-[LinkedIn](https://www.linkedin.com/in/andy-virtual-assistant/)![linkedin](https://user-images.githubusercontent.com/104643138/226102043-8807a548-657d-4fbc-a8d3-daf0d473fb66.png)
+<img href="https://www.facebook.com/dobaophuc98/" src="https://img.shields.io/badge/Facebook-@dobaophuc98-1877F2?style=for-the-badge&logo=Facebook"/>
+<img href="https://www.linkedin.com/in/andy-data-analyst/" src="https://img.shields.io/badge/LinkedIn-@Andy_data_analyst-0A66C2?style=for-the-badge&logo=LinkedIn"/>
+<img src="https://img.shields.io/badge/Gmail-dobaophuc1998@gmail.com-EA4335?style=for-the-badge&logo=Gmail"/>
+
