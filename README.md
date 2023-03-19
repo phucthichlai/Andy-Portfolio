@@ -44,6 +44,7 @@ My job can assist business in Making Data-Driven Decision, Optimizing Operations
 
 - [Used Device Price Analysis using Python](https://github.com/phucthichlai/Used-Device-Price-Analysis-Project-COMPLETED-) 
 - [Report of Technology Trends of Developer on Stack Overflow 2019](https://github.com/phucthichlai/Technology-Trends-of-Developer-community-on-Stack-Overflow-in-2019)
+- [EDA - La Liga Player Status Season 2022-2023](https://github.com/phucthichlai/EDA-La-Liga-Player-Status-Season-2022-2023/blob/main/README.md)
 
 ## You can reach me at 👇
 <img href="https://www.facebook.com/dobaophuc98/" src="https://img.shields.io/badge/Facebook-@dobaophuc98-1877F2?style=for-the-badge&logo=Facebook"/>
