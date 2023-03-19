@@ -1,6 +1,6 @@
 # <h1 align="center">:bar_chart: Data Analyst Portfolio :bar_chart:</h1>
 
-I am sharing a summary of my 5-month self-taught journey to enter the Data market as a Data Analyst.
+I am sharing a summary of my 5-month self-taught journey to enter the Data labor market as a Data Analyst.
 
 As a data analyst, I engage in the process of gathering, wrangling, exploring and analyzing large datasets to find hidden patterns, unseen trends, discover correlations, and translate them into actionable insights to make business predictions.
 
