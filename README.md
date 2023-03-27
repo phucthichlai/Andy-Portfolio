@@ -1,4 +1,4 @@
-# <h1 align="center">:bar_chart: Data Analyst Portfolio :bar_chart:</h1>
+# <h1 align="center">:boy: :bar_chart: Data Analyst Portfolio :bar_chart: :boy:</h1>
 
 I am sharing a summary of my 5-month self-taught journey to enter the Data labor market as a Data Analyst.
 
@@ -23,7 +23,7 @@ My job can assist business in Making Data-Driven Decision, Optimizing Operations
 - [Python](https://coursera.org/share/9633cd154ac74544f87f83434258a90b) <img src="https://user-images.githubusercontent.com/104643138/225982092-a7d3bbf1-35ba-4a2c-864e-3f4bf27902a3.png" width="24" height="24"/>
 
 - **Python Libraries** : [Pandas](https://pandas.pydata.org/) <img src="https://user-images.githubusercontent.com/104643138/225993416-31cf4034-962c-4842-8821-5a5ccfc8e729.png" width="24" height="24"/> | [NumPy](https://numpy.org/) <img src="https://user-images.githubusercontent.com/104643138/225993758-e1b3af8b-47a0-405d-90ff-b2edeeac3d37.png" width="24" height="24"/> | [Matplotlib](https://matplotlib.org/) <img src="https://user-images.githubusercontent.com/104643138/225994026-078da32e-a169-4f83-9fa4-fc0d00c911c1.png" width="24" height="24"/>
-| [Seaborn](https://seaborn.pydata.org/) <img src="https://user-images.githubusercontent.com/104643138/225994199-d9f150a0-27b6-44bc-a581-2e21d7d0e9af.svg" width="24" height="24"/>
+| [Seaborn](https://seaborn.pydata.org/) <img src="https://user-images.githubusercontent.com/104643138/225994199-d9f150a0-27b6-44bc-a581-2e21d7d0e9af.svg" width="24" height="24"/> | [Scikit-learn](https://scikit-learn.org/)<img src="https://user-images.githubusercontent.com/104643138/226148658-1612b9c8-9995-41ec-b3ce-5864f39b61d9.jpeg" width="24" height="24"/>
 
 - [Statistics](https://www.sagepub.com/sites/default/files/upm-binaries/33663_Chapter4.pdf) :chart_with_upwards_trend:
 
@@ -44,7 +44,8 @@ My job can assist business in Making Data-Driven Decision, Optimizing Operations
 
 - [Used Device Price Analysis using Python](https://github.com/phucthichlai/Used-Device-Price-Analysis-Project-COMPLETED-) 
 - [Report of Technology Trends of Developer on Stack Overflow 2019](https://github.com/phucthichlai/Technology-Trends-of-Developer-community-on-Stack-Overflow-in-2019)
-- [EDA - La Liga Player Status Season 2022-2023](https://github.com/phucthichlai/EDA-La-Liga-Player-Status-Season-2022-2023/blob/main/README.md)
+- [EDA - La Liga Player Status Season 2022-2023](https://github.com/phucthichlai/EDA-La-Liga-Player-Status-Season-2022-2023)
+- [Goal Scoring And Win Probability Prediction in UAE-Thailand Soccer Match](https://github.com/phucthichlai/Soccer-Match-Prediction)
 
 ## You can reach me at 👇
 <img href="https://www.facebook.com/dobaophuc98/" src="https://img.shields.io/badge/Facebook-@dobaophuc98-1877F2?style=for-the-badge&logo=Facebook"/>
