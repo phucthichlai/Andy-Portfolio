@@ -1,4 +1,4 @@
-# <h1 align="center">:boy: :bar_chart: Data Analyst Portfolio :bar_chart: :boy:</h1>
+# <h1 align="center">:boy: :bar_chart: My Data Analyst Portfolio :bar_chart: :boy:</h1>
 
 I am sharing a summary of my 5-month self-taught journey to enter the Data labor market as a Data Analyst.
 
