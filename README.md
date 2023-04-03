@@ -14,7 +14,7 @@ My job can assist business in Making Data-Driven Decision, Optimizing Operations
 
 - [Database Management System (DBMS)](https://coursera.org/share/b1478c9acc5b9a4f8bdf0af10ebffc60) ![database](https://user-images.githubusercontent.com/104643138/225988578-c41b93e3-c87f-4e37-900d-c29b0642869a.png)
 
-- [SQL](https://coursera.org/share/b1478c9acc5b9a4f8bdf0af10ebffc60) ![sql-server](https://user-images.githubusercontent.com/104643138/225988921-80545762-6f28-4753-8ea8-e3f20b097f99.png)
+- [SQL](https://coursera.org/share/b1478c9acc5b9a4f8bdf0af10ebffc60) <img src="https://user-images.githubusercontent.com/104643138/229413864-497b8358-eb53-4b82-9650-a086a1cb4f9a.png" width="24" height="24">
 
 - [IBM Cloud](https://cloud.ibm.com/login) <img src="https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png" width="24" height="24"/>
 
@@ -23,7 +23,7 @@ My job can assist business in Making Data-Driven Decision, Optimizing Operations
 - [Python](https://coursera.org/share/9633cd154ac74544f87f83434258a90b) <img src="https://user-images.githubusercontent.com/104643138/225982092-a7d3bbf1-35ba-4a2c-864e-3f4bf27902a3.png" width="24" height="24"/>
 
 - **Python Libraries** : [Pandas](https://pandas.pydata.org/) <img src="https://user-images.githubusercontent.com/104643138/225993416-31cf4034-962c-4842-8821-5a5ccfc8e729.png" width="24" height="24"/> | [NumPy](https://numpy.org/) <img src="https://user-images.githubusercontent.com/104643138/225993758-e1b3af8b-47a0-405d-90ff-b2edeeac3d37.png" width="24" height="24"/> | [Matplotlib](https://matplotlib.org/) <img src="https://user-images.githubusercontent.com/104643138/225994026-078da32e-a169-4f83-9fa4-fc0d00c911c1.png" width="24" height="24"/>
-| [Seaborn](https://seaborn.pydata.org/) <img src="https://user-images.githubusercontent.com/104643138/225994199-d9f150a0-27b6-44bc-a581-2e21d7d0e9af.svg" width="24" height="24"/> | [Scikit-learn](https://scikit-learn.org/)<img src="https://user-images.githubusercontent.com/104643138/226148658-1612b9c8-9995-41ec-b3ce-5864f39b61d9.jpeg" width="24" height="24"/>
+| [Seaborn](https://seaborn.pydata.org/) <img src="https://user-images.githubusercontent.com/104643138/225994199-d9f150a0-27b6-44bc-a581-2e21d7d0e9af.svg" width="24" height="24"/> | [Scikit-learn](https://scikit-learn.org/)<img src="https://user-images.githubusercontent.com/104643138/226148658-1612b9c8-9995-41ec-b3ce-5864f39b61d9.jpeg" width="24" height="24"/> | [Folium](https://pypi.org/project/folium/) <img src="https://user-images.githubusercontent.com/104643138/229423621-7d7a5803-1962-47b6-8d28-1c6900294bce.png" width="72" height="24"/> | [Plotly](https://plotly.com) <img src="https://user-images.githubusercontent.com/104643138/226207356-729c069e-8a89-442d-99d4-cecb345fbbcc.png" width="24" height="24"/>
 
 - [Statistics](https://www.sagepub.com/sites/default/files/upm-binaries/33663_Chapter4.pdf) :chart_with_upwards_trend:
 
