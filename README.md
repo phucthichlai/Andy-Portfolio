@@ -42,11 +42,11 @@ My job can assist business in Making Data-Driven Decision, Optimizing Operations
 
 ## My Project :triangular_flag_on_post::rocket:
 
+- [SQL project - COVID-19 Pandemic EDA](https://github.com/phucthichlai/EDA-SQL-Covid-cases)
+- [Goal Scoring And Win Probability Prediction in UAE-Thailand Soccer Match](https://github.com/phucthichlai/Soccer-Match-Prediction)
+- [EDA - La Liga Player Status Season 2022-2023](https://github.com/phucthichlai/EDA-La-Liga-Player-Status-Season-2022-2023)
 - [Used Device Price Analysis using Python](https://github.com/phucthichlai/Used-Device-Price-Analysis-Project-COMPLETED-) 
 - [Report of Technology Trends of Developer on Stack Overflow 2019](https://github.com/phucthichlai/Technology-Trends-of-Developer-community-on-Stack-Overflow-in-2019)
-- [EDA - La Liga Player Status Season 2022-2023](https://github.com/phucthichlai/EDA-La-Liga-Player-Status-Season-2022-2023)
-- [Goal Scoring And Win Probability Prediction in UAE-Thailand Soccer Match](https://github.com/phucthichlai/Soccer-Match-Prediction)
-- [SQL project - COVID-19 Pandemic EDA](https://github.com/phucthichlai/EDA-SQL-Covid-cases)
 
 ## You can reach me at 👇
 <img href="https://www.facebook.com/dobaophuc98/" src="https://img.shields.io/badge/Facebook-@dobaophuc98-1877F2?style=for-the-badge&logo=Facebook"/>
