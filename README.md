@@ -42,6 +42,7 @@ My job can assist business in Making Data-Driven Decision, Optimizing Operations
 
 ## My Project :triangular_flag_on_post::rocket:
 
+- [SQL project - 8 Weeks with Danny's Business Challenges](https://github.com/phucthichlai/SQL_8weekchallenge) 
 - [SQL project - COVID-19 Pandemic EDA](https://github.com/phucthichlai/EDA-SQL-Covid-cases)
 - [Goal Scoring And Win Probability Prediction in UAE-Thailand Soccer Match](https://github.com/phucthichlai/Soccer-Match-Prediction)
 - [EDA - La Liga Player Status Season 2022-2023](https://github.com/phucthichlai/EDA-La-Liga-Player-Status-Season-2022-2023)
