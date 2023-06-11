@@ -47,7 +47,7 @@ My job can assist business in Making Data-Driven Decision, Optimizing Operations
 - [COVID-19 Pandemic EDA](https://github.com/phucthichlai/EDA-SQL-Covid-cases)
 
 ### Python and Machine Learning projects:
--[What U.S. people think about abortion - EDA](https://github.com/phucthichlai/Abortion)
+- [What U.S. people think about abortion - EDA](https://github.com/phucthichlai/Abortion)
 - [Used Device Price Analysis using Python](https://github.com/phucthichlai/Used-Device-Price-Analysis-Project-COMPLETED-) 
 - [Goal Scoring And Win Probability Prediction in UAE-Thailand Soccer Match](https://github.com/phucthichlai/Soccer-Match-Prediction)
 - [EDA - La Liga Player Status Season 2022-2023](https://github.com/phucthichlai/EDA-La-Liga-Player-Status-Season-2022-2023)
