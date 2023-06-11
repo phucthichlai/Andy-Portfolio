@@ -40,6 +40,8 @@ My job can assist business in Making Data-Driven Decision, Optimizing Operations
 
 - [Data Visualization with Advanced Excel - by PwC](https://coursera.org/share/40cb5b13e6521f14746db52efbf82302). <img height="32" width="32" src="https://user-images.githubusercontent.com/104643138/226147902-dc13f4b4-4c09-4eed-91ef-61619dcd8716.png"/>
 
+- [Visual Analytics with Tableau - by UCDavis](https://coursera.org/share/73487e633fd78a9178d302234b6ba0e9).
+
 ## My Project :triangular_flag_on_post::rocket:
 
 ### SQL projects:
