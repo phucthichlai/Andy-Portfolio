@@ -1,10 +1,8 @@
 # <h1 align="center">:boy: :bar_chart: My Data Analyst Portfolio :bar_chart: :boy:</h1>
 
-I am sharing a summary of my 5-month self-taught journey to enter the Data labor market as a Data Analyst.
+After 5 months of learning on my own and another 1 month to build my own projects, I think it's time to start my career as a Data Analyst.
 
-As a data analyst, I engage in the process of gathering, wrangling, exploring and analyzing large datasets to find hidden patterns, unseen trends, discover correlations, and translate them into actionable insights to make business predictions.
-
-My job can assist business in Making Data-Driven Decision, Optimizing Operations, Conducting Effective Marketing & Sales Strategies and after all Improving the Profitability and Efficiency of the business.
+As a data analyst, I engage in the process of gathering, wrangling, exploring and analyzing large datasets to find hidden patterns, unseen trends, discover correlations, and translate them into actionable insights to assist business operation in: Making Data-Driven Decision, Optimizing Operations, Conducting Effective Strategies and after all Improving the Profitability and Efficiency of the business.
 
 ## Technologies learned and used 🛠
 
