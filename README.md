@@ -1,7 +1,5 @@
 # <h1 align="center">:boy: :bar_chart: My Data Analyst Portfolio :bar_chart: :boy:</h1>
 
-After 5 months of learning on my own and another 2 month to build my first personal projects, I think it's time to start my career as a Data Analyst.
-
 As a data analyst, I engage in the process of gathering, wrangling, exploring and analyzing large datasets to find hidden patterns, unseen trends, discover correlations, and translate them into actionable insights to assist business operation in: Making Data-Driven Decision, Optimizing Operations, Conducting Effective Strategies and after all Improving the Profitability and Efficiency of the business.
 
 ## My Certifications :mortar_board::books:
