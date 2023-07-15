@@ -20,6 +20,7 @@ As a data analyst, I engage in the process of gathering, wrangling, exploring an
 ## My Project :triangular_flag_on_post::rocket:
 
 ### SQL projects:
+- [SQL50 Leetcode](https://github.com/phucthichlai/SQL-50-Interesting-Problems)
 - [8 Weeks with Danny's Business Challenges](https://github.com/phucthichlai/SQL_8weekchallenge) 
 - [COVID-19 Pandemic EDA](https://github.com/phucthichlai/EDA-SQL-Covid-cases)
 
